@@ -94,8 +94,8 @@ Este proyecto es una base sólida sobre la que se pueden construir sistemas real
 
 ## Autor
 
-Bruno Dinello / Carlos Dutra / Lorenzo Foderé  
+Bruno Dinello / Carlos Dutra da Silveira / Lorenzo Foderé  
 Machine Learning & Data Science  
 LinkedIn: https://www.linkedin.com/in/bruno-dinello  
-GitHub: https://github.com/bleacher111
+GitHub: https://github.com/brunodinello
 
